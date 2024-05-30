@@ -12,15 +12,15 @@
 * [时空轨迹语义理解核心任务](#core_tasks)
   * [时空要素表示学习](#element_representation_learning)
   * [基于时空语义理解的轨迹相似学习](#trajectory_similarity_learning)
-    * [轨迹聚类]()
-    * [轨迹分类]()
-    * [轨迹连接]()
-    * [异常轨迹识别]()
-  * [基于时空语义理解的轨迹预测学习]()
-    * [人群移动性预测]()
-    * [城市感知预测]()
-    * [时空数据补全]()
-  * [时空知识图谱]()
+    * [轨迹聚类](#trajectory_clustering)
+    * [轨迹分类](#trajectory_classification)
+    * [轨迹连接](#trajectory_linking)
+    * [异常轨迹识别](#abnormal_trajectory_identification)
+  * [基于时空语义理解的轨迹预测学习](#trajectory_prediction_learning)
+    * [人群移动性预测](#crowd_mobility_prediction)
+    * [城市感知预测](#urban_perception_prediction)
+    * [时空数据补全](#spatio_temporal_data_completion)
+  * [时空知识图谱](#space_time_knowledge_map)
 * [生成式智能时代的挑战与机遇]()
   * [面向时空语义理解的高质量数据合成及集成研究]()
   * [全量式时空语义理解大模型训练机制研究]()
@@ -83,18 +83,18 @@
 
 <h3 id="trajectory_similarity_learning">基于时空语义理解的轨迹相似学习</h3>
 
-<h4 id="word_based_models">轨迹聚类</h4>
+<h4 id="trajectory_clustering">轨迹聚类</h4>
 
-<h4 id="word_based_models">轨迹分类</h4>
+<h4 id="trajectory_classification">轨迹分类</h4>
 
-<h4 id="word_based_models">轨迹连接</h4>
+<h4 id="trajectory_linking">轨迹连接</h4>
 
-<h4 id="word_based_models">异常轨迹识别</h4>
+<h4 id="abnormal_trajectory_identification">异常轨迹识别</h4>
 
 
-<h3 id="word_based_models">基于时空语义理解的轨迹预测学习</h3>
+<h3 id="trajectory_prediction_learning">基于时空语义理解的轨迹预测学习</h3>
 
-<h4 id="word_based_models">人群移动性预测</h4>
+<h4 id="crowd_mobility_prediction">人群移动性预测</h4>
 
 * 个推1-5
 * 以下为当前文中34、37、40、36、38、39、41、42
@@ -107,7 +107,7 @@
 * Liu H, Tong Y, Han J, et al. 2020. [Incorporating multi-source urban data for personalized and context-aware multi-modal transportation recommendation](https://ieeexplore.ieee.org/abstract/document/9063461/). *IEEE Transactions on Knowledge and Data Engineering, 2020*.
 * Zhu M, Hu J, Pu Z, et al. 2019. [Personalized Context-Aware Multi-Modal Transportation Recommendation](https://arxiv.org/abs/1910.12601). *arXiv preprint 2019*.
 
-<h4 id="word_based_models">城市感知预测</h4>
+<h4 id="urban_perception_prediction">城市感知预测</h4>
 
 * 城感1
 * 以下为当前文中43、44、46、47
@@ -116,14 +116,14 @@
 * Amato F, Guignard F, Robert S, et al. 2020. [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7). *Scientific reports, 2020*.
 * Li T, Zhang J, Bao K, et al. 2020. [Autost: Efficient neural architecture search for spatio-temporal prediction](https://dl.acm.org/doi/abs/10.1145/3394486.3403122). *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020*.
 
-<h4 id="word_based_models">时空数据补全</h4>
+<h4 id="spatio_temporal_data_completion">时空数据补全</h4>
 
 * 48、补全、补全4
 * Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA). IEEE, 2017*.
 * Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems, 2023*.
 * Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information, 2023*.
 
-<h3 id="word_based_models">时空知识图谱</h3>
+<h3 id="space_time_knowledge_map">时空知识图谱</h3>
 
 * 以下是文中52-55
 * Zhang W, Peng L, Ge X, et al. 2023. [Spatio-Temporal Knowledge Graph-Based Research on Agro-Meteorological Disaster Monitoring](https://www.mdpi.com/2072-4292/15/18/4403). *Remote Sensing, 2023*.

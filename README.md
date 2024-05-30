@@ -117,21 +117,24 @@
 <h4 id="word_based_models">时空数据补全</h4>
 
 * 48、补全、补全4
-* Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](). *2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA). IEEE, 2017*.
-* Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](). *Knowledge-Based Systems, 2023*.
-* Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](). *ISPRS International Journal of Geo-Information, 2023*.
+* Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](https://ieeexplore.ieee.org/abstract/document/8078795/). *2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA). IEEE, 2017*.
+* Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](https://www.sciencedirect.com/science/article/pii/S0950705122012849). *Knowledge-Based Systems, 2023*.
+* Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](https://www.mdpi.com/2220-9964/12/1/13). *ISPRS International Journal of Geo-Information, 2023*.
 
 <h3 id="word_based_models">时空知识图谱</h3>
 
-* 52-55
+* 以下是文中52-55
 * Zhang W, Peng L, Ge X, et al. 2023. [Spatio-Temporal Knowledge Graph-Based Research on Agro-Meteorological Disaster Monitoring](https://www.mdpi.com/2072-4292/15/18/4403). *Remote Sensing, 2023*.
 * Xie C, Zhang L, Zhong Z. 2023. [A Novel Method for Constructing Spatiotemporal Knowledge Graph for Maritime Ship Activities](https://www.mdpi.com/2079-9292/12/15/3205). *Electronics, 2023*.
 * Chen W, Wan H, Guo S, et al. 2022. [Building and exploiting spatial–temporal knowledge graph for next POI recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122010449). *Knowledge-Based Systems, 2022*.
 * Wang H, Yu Q, Liu Y, et al. 2021. [Spatio-temporal urban knowledge graph enabled mobility prediction](https://dl.acm.org/doi/abs/10.1145/3494993). *Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies, 2021*.
 
+<h2 id="word_based_models">生成式智能时代的挑战与机遇</h2>
 
+<h3 id="word_based_models">面向时空语义理解的高质量数据合成及集成研究</h3>
 
+<h3 id="word_based_models">全量式时空语义理解大模型训练机制研究</h3>
 
-
+<h3 id="word_based_models">多模态在时空轨迹中的应用</h3>
 
 

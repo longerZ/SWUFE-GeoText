@@ -46,6 +46,7 @@
 
 <h3 id="word_based_models">深度序列学习</h3>
 
+* Goodfellow I J, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, et al. 2014. [Generative adversarial nets](). In: *Proceedings of the 27th International Conference on Neural Information Processing Systems. Montreal, Canada: NIPS, 2014*.
 * Chen X, Duan Y, Houthooft R, et al. 2016. [Infogan: Interpretable representation learning by information maximizing generative adversarial nets](https://proceedings.neurips.cc/paper_files/paper/2016/hash/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Abstract.html). *Advances in neural information processing systems 2016*.
 * Radford A, Metz L, Chintala S. 2015. [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/abs/1511.06434). *arXiv preprint 2015*. 
 * Martin Arjovsky, Soumith Chintala, Léon Bottou. 2017. [Wasserstein GAN](https://arxiv.org/abs/1701.07875). *arXiv preprint 2017*.
@@ -72,11 +73,37 @@
 
 <h3 id="word_based_models">时空图学习</h3>
 
+<h3 id="word_based_models">基于底座模型的学习</h3>
+
+<h2 id="background">时空轨迹语义理解核心任务</h2> 
+
+<h3 id="word_based_models">时空要素表示学习</h3>
+
+<h3 id="word_based_models">基于时空语义理解的轨迹相似学习</h3>
+
+<h4 id="word_based_models">轨迹聚类</h4>
+
+<h4 id="word_based_models">轨迹分类</h4>
+
+<h4 id="word_based_models">轨迹连接</h4>
+
+<h4 id="word_based_models">异常轨迹识别</h4>
 
 
+<h3 id="word_based_models">基于时空语义理解的轨迹预测学习</h3>
 
+<h4 id="word_based_models">人群移动性预测</h4>
 
-
+* 个推1-5
+* 以下为当前文中34、37、40、36、38、39、41、42
+* Dai S, Yu Y, Fan H, et al. 2022. [Spatio-temporal representation learning with social tie for personalized poi recommendation](https://link.springer.com/article/10.1007/s41019-022-00180-w). *Data Science and Engineering, 2022*.
+* Li M, Zheng W, Xiao Y, et al. 2020. [An Adaptive POI Recommendation Algorithm by Integrating User's Temporal and Spatial Features in LBSNs](https://dl.acm.org/doi/abs/10.1145/3414274.3414494). *Proceedings of the 3rd International conference on data science and information technology. 2020*.
+* Tahmasbi H, Jalali M, Shakeri H. 2021. [Modeling user preference dynamics with coupled tensor factorization for social media recommendation](https://link.springer.com/article/10.1007/s12652-020-02714-4). *Journal of Ambient Intelligence and Humanized Computing, 2021*.
+* Wang X, Sun G, Fang X, et al. 2022. [Modeling spatio-temporal neighbourhood for personalized point-of-interest recommendation](https://www.ijcai.org/proceedings/2022/490). *Proceedings of IJCAI. 2022*.
+* Parveen R, Varma N S. 2021. [Friend's recommendation on social media using different algorithms of machine learning](https://www.sciencedirect.com/science/article/pii/S2666285X21000406). *Global Transitions Proceedings, 2021*.
+* Saraswathi K, Mohanraj V, Suresh Y, et al. [Deep Learning Enabled Social Media Recommendation Based on User Comments](https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-44-2/TSP_CSSE_27987/TSP_CSSE_27987.pdf). *Computer Systems Science & Engineering, 2023*.
+* Liu H, Tong Y, Han J, et al. 2020. [Incorporating multi-source urban data for personalized and context-aware multi-modal transportation recommendation](https://ieeexplore.ieee.org/abstract/document/9063461/). *IEEE Transactions on Knowledge and Data Engineering, 2020*.
+* Zhu M, Hu J, Pu Z, et al. 2019. [Personalized Context-Aware Multi-Modal Transportation Recommendation](https://arxiv.org/abs/1910.12601). *arXiv preprint 2019*.
 
 
 

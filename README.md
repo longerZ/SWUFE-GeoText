@@ -114,12 +114,20 @@
 * Amato F, Guignard F, Robert S, et al. 2020. [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7). *Scientific reports, 2020*.
 * Li T, Zhang J, Bao K, et al. 2020. [Autost: Efficient neural architecture search for spatio-temporal prediction](https://dl.acm.org/doi/abs/10.1145/3394486.3403122). *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. 2020*.
 
+<h4 id="word_based_models">时空数据补全</h4>
 
+* 48、补全、补全4
+* Chen J, Chen P. 2017. [A method based on tensor decomposition for missing multi-dimensional data completion](). *2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA). IEEE, 2017*.
+* Kong X, Zhou W, Shen G, et al. 2023. [Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data](). *Knowledge-Based Systems, 2023*.
+* Cai L, Sha C, He J, et al. 2023. [Spatial–Temporal Data Imputation Model of Traffic Passenger Flow Based on Grid Division](). *ISPRS International Journal of Geo-Information, 2023*.
 
+<h3 id="word_based_models">时空知识图谱</h3>
 
-
-
-
+* 52-55
+* Zhang W, Peng L, Ge X, et al. 2023. [Spatio-Temporal Knowledge Graph-Based Research on Agro-Meteorological Disaster Monitoring](https://www.mdpi.com/2072-4292/15/18/4403). *Remote Sensing, 2023*.
+* Xie C, Zhang L, Zhong Z. 2023. [A Novel Method for Constructing Spatiotemporal Knowledge Graph for Maritime Ship Activities](https://www.mdpi.com/2079-9292/12/15/3205). *Electronics, 2023*.
+* Chen W, Wan H, Guo S, et al. 2022. [Building and exploiting spatial–temporal knowledge graph for next POI recommendation](https://www.sciencedirect.com/science/article/pii/S0950705122010449). *Knowledge-Based Systems, 2022*.
+* Wang H, Yu Q, Liu Y, et al. 2021. [Spatio-temporal urban knowledge graph enabled mobility prediction](https://dl.acm.org/doi/abs/10.1145/3494993). *Proceedings of the ACM on interactive, mobile, wearable and ubiquitous technologies, 2021*.
 
 
 
